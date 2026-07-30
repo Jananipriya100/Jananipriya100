@@ -24,7 +24,6 @@ I am passionate about developing scalable web applications, AI-powered solutions
 ### Languages
 
 * Java
-* Python
 * SQL
 * C#
 
